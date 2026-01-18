@@ -19,7 +19,6 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-20">
           <a href="#home" className="flex items-center gap-3">
             <img src={logo} alt="Winn-T Consulting" className="h-12 w-auto" />
-            <span className="text-lg font-bold text-winn-blue">WINN-T CONSULTING</span>
           </a>
 
           {/* Desktop Navigation */}
